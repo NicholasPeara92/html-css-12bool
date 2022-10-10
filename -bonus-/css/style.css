@@ -1,0 +1,34 @@
+@import url(frame.css);
+
+.container {
+    max-width: 1170px;
+    margin: 20px auto;
+}
+
+.box-green {
+    background-color: #0c7556;
+}
+
+.box-dark-green {
+    background-color: #16514d;
+}
+
+.box-aqua {
+    background-color: #06ded3;
+}
+
+.box-dark-aqua {
+    background-color: #0bb4ad;
+}
+
+.box-brown {
+    background-color: #9c4517;
+}
+
+.box-dark-brown {
+    background-color: #733617;
+}
+
+.box-light-brown {
+    background-color: #c35518;
+}
