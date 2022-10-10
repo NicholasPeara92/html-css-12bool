@@ -1,8 +1,21 @@
 @import url(frame.css);
 
 .container {
-    max-width: 1170px;
+    width: 800px;
     margin: 20px auto;
+}
+[class*="box-"] {
+    width: 100%;
+}
+
+.empty {
+    padding: 25px 20px;
+}
+.no-wrap {
+    flex-wrap: nowrap;
+}
+.box-white {
+    background-color: white;
 }
 
 .box-green {
