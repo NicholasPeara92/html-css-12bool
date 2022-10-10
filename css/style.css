@@ -5,6 +5,7 @@
 .container {
     max-width: 73.125rem;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 .box {
@@ -21,4 +22,7 @@
     border: 1px solid blue;
     padding: .625rem;
     font-size: .875rem;
+}
+.empty {
+    padding: 20px;
 }
